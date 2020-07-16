@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Exercise was taken from [Building an Awesome Todo List App in React](https://www.kirupa.com/react/simple_todo_app_react.htm).
+
 ## Available Scripts
 
 In the project directory, you can run:

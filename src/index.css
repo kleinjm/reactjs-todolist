@@ -1,0 +1,8 @@
+body {
+  padding: 50px;
+}
+
+#container {
+  display: flex;
+  justify-content: flex;
+}
